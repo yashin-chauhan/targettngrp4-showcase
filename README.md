@@ -137,10 +137,10 @@ Explore the comprehensive technical architecture and domain specifications:
 ## 📸 Screenshots & Previews
 
 <p align="center">
-  <img src="screenshots/targettn-logo.png" alt="TargetTNgrp4 Platform Logo" width="380" style="border-radius: 12px; box-shadow: 0 4px 24px rgba(0,0,0,0.12);" />
+  <img src="screenshots/web-landing-hero.png" alt="TargetTNgrp4 Platform Preview" width="850" style="border-radius: 8px; box-shadow: 0 4px 20px rgba(0,0,0,0.15);" />
 </p>
 
-Comprehensive UI catalog detailing Public Landing, Student Dashboard, Exam Runner, Results Analytics, and Admin Console: **[`screenshots/README.md`](screenshots/README.md)**.
+Full catalog of desktop and mobile interface previews: **[`screenshots/README.md`](screenshots/README.md)**.
 
 ---
 
